@@ -9,3 +9,4 @@ A Pen created on CodePen.io. Original URL: [https://codepen.io/kadamjay100-gmail
 The main Webpage lies in : Python-for-Data-Science/PDS Webapp/dist/index.html
 
 
+This Repository includes all the Python concepts that are necessary for Data science.
